@@ -1,7 +1,27 @@
-.Bangladesh{
-    width:400px;
-    height:400px;
-    background:#ff0000;
-    margin-top:5px;
-    margin-left:2px;
+.design{
+    text-align: center;
+    display: block;
+}
+table{
+
+    border-collapse: collapse;
+}
+.color1{
+    background-color:#4DA8DA;
+}
+.color2{
+    background-color:#9DC88D
+;
+}
+.color3{
+    background-color:#F1B24A;
+}
+body{
+    background-image: url("images/imgf.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.style{
+    text-align: justify;
 }
